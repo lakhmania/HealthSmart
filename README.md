@@ -14,5 +14,9 @@
 -  Share the recipe 
 -  Timer mode to get an ideal cooking experience.
 
+### Contributors
+-  Apoorva Lakhmani(lakhmani.a@husky.neu.edu)
+-  Nirali Merchant(merchant.n@husky.neu.edu)
+
 
 
